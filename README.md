@@ -9,9 +9,9 @@ Please do not use this to pirate TV shows.
 
 Currently supported sites are:
 
-tpb - The Pirate Bay
-eztv - EZTV
-kass - Kickass Torrents
+- tpb - The Pirate Bay
+- eztv - EZTV
+- kass - Kickass Torrents
 
 I may add others by request, or if anyone wants to send me a pull request feel free.
 
